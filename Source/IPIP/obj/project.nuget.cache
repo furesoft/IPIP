@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOfvyKWp8LeLFSK8S6P9dcyfksCd/DxV/Raxii+xuiCtvu8nPeFoB6LtiHStzmYBS3yo+zffdY5KQgnr1zp+aQ==",
+  "success": true,
+  "projectFilePath": "/home/filmee24/Dokumente/Github/IPIP/Source/IPIP/IPIP.csproj",
+  "expectedPackageFiles": [
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
